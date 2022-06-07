@@ -1,1 +1,1 @@
-# Snake-GAme-2
+# Snake-game-with-swing
